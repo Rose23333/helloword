@@ -1,7 +1,7 @@
 # helloword
 test  
 
-![loqun](.\image\timg[1].jpg)
+![loqun](./image/timg[1].jpg)
 
 **pp**  
 *yzw*
